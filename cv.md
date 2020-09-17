@@ -9,3 +9,7 @@
 ## Summary
 
 I would like to get professional skills in IT sphere and to learn Java-script.
+
+## Education
+
+**Belarusian State Pedagogical University**
